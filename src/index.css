@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #09090b;
+  color: white;
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.btn-blue {
+  background: #2563eb;
+  color: white;
+}
+
+.btn-zinc {
+  background: #27272a;
+  color: white;
+}
+
+.card {
+  background: #27272a;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 10px 0;
+}
+
+h1 { font-size: 48px; font-weight: bold; }
+h2 { font-size: 32px; font-weight: bold; margin: 20px 0; }
+h3 { font-size: 20px; font-weight: bold; }
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.btn-blue {
+  background: #2563eb;
+  color: white;
+}
+
+.btn-zinc {
+  background: #27272a;
+  color: white;
+}
+
+.card {
+  background: #27272a;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 10px 0;
+}
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.btn-blue {
+  background: #2563eb;
+  color: white !important;
+}
+
+.btn-zinc {
+  background: #27272a;
+  color: white !important;
+}
+
+.card {
+  background: #27272a;
+  padding: 20px;
+  border-radius: 12px;
+  margin: 10px 0;
+}
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.btn-blue {
+  background: #2563eb;
+  color: white !important;
+}
+
+.btn-zinc {
+  background: #27272a;
+  color: white !important;
+}
+.btn { display: inline-block; padding: 12px 24px; border-radius: 8px; text-decoration: none; margin-right: 10px; font-weight: bold; }
+.btn-blue { background: #2563eb; color: white !important; }
+.btn-zinc { background: #27272a; color: white !important; }
+.card { background: #27272a; padding: 20px; border-radius: 12px; margin: 10px 0; }
